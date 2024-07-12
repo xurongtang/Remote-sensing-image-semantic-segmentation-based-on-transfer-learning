@@ -5,7 +5,7 @@ Identify the colored steel houses along the railway to ensure the safety of rail
 
 # Json data convert
 
-# Create a model with pre-trained encoder
+# Create a segmentation model with pre-trained encoder by using pytorch
 
 # pre-trained
 
