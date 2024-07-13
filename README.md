@@ -9,8 +9,12 @@ Identify the colored steel houses along the railway to ensure the safety of rail
 ![](/img/fine_tune.png "fune-tune")
 
 # Json data convert
+If your dataset label save as json format, you can run this python script to get image label.
+> JSON tool/json_label_trans.py
 
 # Create a segmentation model with pre-trained encoder by using pytorch
+Firstly, we can use the [smp]("https://github.com/qubvel/segmentation_models.pytorch") to construct our model
+
 
 # pre-trained
 
