@@ -13,11 +13,13 @@ If your dataset label save as json format, you can run this python script to get
 > JSON tool/json_label_trans.py
 
 # Create a segmentation model with pre-trained encoder by using pytorch
-Firstly, we can use the [smp]("https://github.com/qubvel/segmentation_models.pytorch") to construct our model
+Firstly, we can use the [smp](https://github.com/qubvel/segmentation_models.pytorch) to construct our model.
+how to use the smp build a complete segmentation model, just see the following python script.
+>main.py
 
-
-# pre-trained
-
-# fine tune 
+# fine tune
+When there is a pre-trained model, we can use the transfer learning method to fine tune our model with specific dataset.
+reading the following script in detail.
+>finetune_model.py 
 
 # test
