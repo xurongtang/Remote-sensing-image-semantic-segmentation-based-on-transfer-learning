@@ -23,3 +23,10 @@ reading the following script in detail.
 >finetune_model.py 
 
 # test
+you can select a satellite image to segment after the fine tune done.
+just running the python script.
+>rs_big_pred.py
+
+# GUI(optional)
+Combining the above functions into a simple GUI,
+the all script about GUI is archive to the UI_designer directory.
